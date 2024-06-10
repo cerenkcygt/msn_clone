@@ -18,3 +18,6 @@ First you need to install node modules.
 
 
 [web programming final.pdf](https://github.com/user-attachments/files/15778172/web.programming.final.pdf)
+
+
+[CRN News Portal project video link.docx](https://github.com/user-attachments/files/15778403/CRN.News.Portal.project.video.link.docx)
