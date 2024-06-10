@@ -15,3 +15,4 @@ Msn Clone News Portal Project
 ### Setup:
 First you need to install node modules.
 ```npm i```
+[web programming final.pdf](https://github.com/user-attachments/files/15778172/web.programming.final.pdf)
